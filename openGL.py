@@ -1,4 +1,4 @@
-#C:\Users\jrson\Downloads\CS CUE\openGL and Python
+#https://www.youtube.com/watch?v=eJDIsFJN4OQ
 
 import pygame as pg
 import moderngl as mgl
