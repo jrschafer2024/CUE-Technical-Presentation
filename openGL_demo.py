@@ -1,3 +1,6 @@
+#https://www.youtube.com/watch?v=LCK1qdp_HhQ&list=PLn3eTxaOtL2PDnEVNwOgZFm5xYPr4dUoR&index=1
+#https://www.youtube.com/watch?v=mOTE_62i5ag&list=PLn3eTxaOtL2PDnEVNwOgZFm5xYPr4dUoR&index=2
+
 import pygame as pg
 from OpenGL.GL import *
 from OpenGL.GL.shaders import compileProgram,compileShader
